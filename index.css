@@ -1,0 +1,30 @@
+.bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/iphoneX-bg.png");
+    background-size:cover;
+    height:100vh;
+}
+.card-container{
+    background-color: white;
+    height:50h;
+    padding:10px;
+    border-color:#707070;
+    border-width:5px;
+    border-style:solid;
+
+}
+.heading{
+    color:#0a1f44;
+    font-family:'Roboto';
+    font-size:30px;
+    padding:10px;
+    font-weight:bold;
+
+}
+.list-items{
+    color:#0a1f44;
+    font-family:'Roboto';
+    font-size:20px;
+}
+.button{
+    border-width:0px;
+}
